@@ -2,6 +2,10 @@
 	<img src="preview.gif"/>
 </p>
 
+<p align="center">
+	<img src="screenshot.png"/>
+</p>
+
 Source code of http://kbaquri.github.io
 
 ## Acknowledgements
